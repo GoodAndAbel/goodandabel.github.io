@@ -1,0 +1,134 @@
+
+.page-wrapper {
+	width: 100%;
+	height: auto;
+}
+
+
+/*Nav Bar Stuff*/
+.nav-area {
+	width: 100%;
+	height: 160px;
+	display: inline-block;
+}
+
+.gna-sticker {
+	z-index: 5;
+	float: center;
+	position: relative;
+	padding-top: 30px;
+	margin: auto;
+	display: block;
+}
+
+.nav-area-left {
+    text-align: left;
+    float: left;
+    padding-top: 40px;
+}
+
+.nav-area-right {
+	text-align: right;
+	float: right;
+	padding-top: 40px;
+}
+
+.nav-text-left {
+	color: #000000;
+	font-size: 50px;
+	font-weight: bold;
+	padding: 50px;
+	padding-left: 30rem;
+}
+
+.nav-text-right {
+	color: #000000;
+	font-size: 50px;
+	font-weight: bold;
+	padding: 50px;
+	padding-right: 30rem;
+}
+
+
+/*Nav Bar Link Stuff*/
+a.nav-text-left:hover {
+	color: #000000;
+}
+
+a.nav-text-left:visited {
+	color: #000000;
+}
+
+a.nav-text-right:hover {
+	color: #000000;
+}
+
+a.nav-text-right:visited {
+	color: #000000;
+}
+
+
+/*Bark Landing*/
+
+.hero-wrapper {
+  	background-image: url("barkbg.png");
+  	background-size: cover;
+  	background-repeat: no-repeat;
+  	width: 100%;
+  	height: 120%;
+}
+
+.gnabook-img {
+   display: block;
+   margin: auto;
+   padding-top: 30rem;
+}
+
+.row2 {
+	background-color: #E6D6C9;
+	height: 500px;
+	display: flex;
+}
+
+.red-image {
+	flex: 2;
+	background-color: #DB5D36;
+}
+
+.text-box1 {
+	display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+	flex: 1;
+}
+
+.header-text-box {
+	padding: 80px;
+}
+.row3 {
+	background-color: #FCEAB8;
+	height: 500px;
+	display: flex;
+	margin: autod;
+}
+
+.blue-image {
+	flex: 2;
+	background-color: #88ccd1;
+}
+
+.text-box2 {
+	display: flex;
+	text-align: center;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+	flex: 1;
+}
+
+.footer {
+	background-color: #ffffff;
+	height: 300px;
+}
+
