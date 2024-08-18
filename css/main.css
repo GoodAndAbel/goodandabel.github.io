@@ -16,7 +16,8 @@
 	z-index: 5;
 	float: center;
 	position: relative;
-	padding-top: 30px;
+	padding-top: 40px;
+	width: 200px;
 	margin: auto;
 	display: block;
 }
@@ -104,8 +105,10 @@ a.nav-text-right:visited {
 	flex: 1;
 }
 
-.header-text-box {
+h1.header-text-box {
 	padding: 80px;
+	font-size: 35px;
+	font-weight: bold;
 }
 .row3 {
 	background-color: #FCEAB8;
