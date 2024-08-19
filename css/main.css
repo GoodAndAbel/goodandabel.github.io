@@ -94,6 +94,10 @@ a.nav-text-right:visited {
 
 .red-image {
 	flex: 2;
+	background-image: url("redimage.png");
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	background-position: center center;
 	background-color: #DB5D36;
 }
 
@@ -119,6 +123,10 @@ h1.header-text-box {
 
 .blue-image {
 	flex: 2;
+	background-image: url("blueimage.png");
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	background-position: center center;
 	background-color: #88ccd1;
 }
 
